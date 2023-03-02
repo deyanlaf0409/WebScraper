@@ -1,27 +1,29 @@
 # S04-Python-team-5
-# Documentation:
+This project is made by me and my other 3 comrades throughout our coding bootcamp.
+Not perfect, but it covers the main requierments which are:
 
-This is a plan of the idea and main structure of the project.
+                                                       - OOP Design
+                                                       
+                                                       - Tests cover around 75%
+                                                       
+                                                       - Make it work as expected
+                                                       
+# What it does?
+Scrapes books info from "http://books.toscrape.com" and saves that info in readable format as json file.
 
-1.Web scraping from http://books.toscrape.com
- - getting the proper n books depending on the input and collect them in a chosen data structure
+You can add some arguments depending on what are you searching for (price range, title, rating etc.) or just "gonna catch 'em all!" (Which i don't recommend).
 
-2.Filter the data depending on the input:
-- data is sorted depending on the input
-- store formatted data in json
+Add -X as argument for Graphical User Interface (This sounds cooler than it looks).
 
-3.Output the data in tkinter
+Look for quick instructions below.
+
 
 # Project Requirements:
 - Python 2.7
 - Modules : argparse, requests, beautifulsoup, tkinter
 
-Project content:
-- Tests, documentation, OOP design, UML diagram
-
-Optional input arguments:
+#Optional input arguments:
 ```
-
   -h, --help          show this help message and exit
   -d, --description   description keywords
   -g, --genre         genre
@@ -45,10 +47,7 @@ python main.py -g Science -t “Book Title”
 python main.py -X
 
 # Tests
-...
-
-# UML Diagram:
-![classes](https://user-images.githubusercontent.com/111605228/220118325-117f397a-8753-4e29-a264-e3ac94608435.png)
+In main directory 
 
 
 
