@@ -1,5 +1,5 @@
 # S04-Python-team-5
-This project is made by me and my other 3 comrades throughout our coding bootcamp.
+This project is made by me and my 3 comrades throughout our coding bootcamp.
 Not perfect, but it covers the main requierments which are:
 
                                                        - OOP Design
