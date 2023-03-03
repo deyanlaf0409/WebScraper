@@ -6,7 +6,7 @@ Not perfect, but it covers the main requierments which are:
                                                        
                                                        - Tests cover around 75%
                                                        
-                                                       - Make it work as expected
+                                                       - To work as expected
                                                        
 # What it does?
 Scrapes books info from "http://books.toscrape.com" and saves that info in readable format as json file.
