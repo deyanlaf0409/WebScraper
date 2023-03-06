@@ -11,7 +11,7 @@ Not perfect, but it covers the main requierments which are:
 # What it does?
 Scrapes books info from "http://books.toscrape.com" and saves that info in readable format as json file.
 
-You can add some arguments depending on what are you searching for (price range, title, rating etc.) or just "gonna catch 'em all!" (Which i don't recommend).
+You can add some arguments depending on what are you searching for (price range, title, rating etc.), or just "gonna catch 'em all!" (Which i don't recommend).
 
 Add -X as argument for Graphical User Interface (This sounds cooler than it looks).
 
