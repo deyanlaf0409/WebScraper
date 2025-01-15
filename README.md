@@ -13,7 +13,7 @@ Scrapes books info from "http://books.toscrape.com" and saves that info in reada
 
 You can add some arguments depending on what are you searching for (price range, title, rating etc.), or just "gonna catch 'em all!" (Which i don't recommend).
 
-Add -X as argument for Graphical User Interface (This sounds cooler than it looks).
+Add -X as argument for Graphical User Interface.
 
 Look for quick instructions below.
 
